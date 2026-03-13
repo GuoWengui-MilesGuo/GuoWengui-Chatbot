@@ -38,9 +38,9 @@
 #### 导入步骤：
 
 **① 访问 NotebookLM --> 新建笔记本**
-```
-访问地址：[notebooklm.google.com](https://notebooklm.google.com/)（需要Google账户）
-```
+
+📥 **访问地址：[notebooklm.google.com](https://notebooklm.google.com/)**
+
 
 **② 上传文件**
 - 在新建的笔记本里，点击 **「+ 添加来源」** 按钮
