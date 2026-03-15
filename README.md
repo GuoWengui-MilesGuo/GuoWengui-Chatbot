@@ -102,7 +102,7 @@
 
 📸 
 <div align="center">
-  <img src="./效果图.jpg" width="600" alt="所有来源演示">
+  <img src="https://github.com/GuoWengui-MilesGuo/GuoWengui-Chatbot/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE.jpg" width="600" alt="所有来源演示">
 </div>
 
 您可以进行如下询问：
