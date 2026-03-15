@@ -102,7 +102,7 @@
 
 📸 
 <div align="center">
-  <img src="./效果图.jpg" width="600" alt="所有来源演示">
+  <img src="./效果.jpg" width="600" alt="所有来源演示">
 </div>
 
 您可以进行如下询问：
