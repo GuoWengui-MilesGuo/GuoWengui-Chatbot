@@ -24,7 +24,7 @@
 
 点击下方链接下载完整的网盘文件包：
 
-📥 **[下载直播文字和庭审文件](https://drive.google.com/drive/folders/1mNlTIEUdpc12Vr_YLtsvslYbaOpIF5mu?usp=drive_link)**
+📥 **[下载直播文字和庭审文件](https://mega.nz/file/mrpXXJwD#x2wE8SVUkNmMl6J_pmjJJ3A_D8pWFhTxN9xwD7k__XI)**
 
 > 💡 提示：确保一次性下载全部18个文件
 
