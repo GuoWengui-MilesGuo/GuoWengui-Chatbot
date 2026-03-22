@@ -1,5 +1,11 @@
 # 📚 郭文贵直播文字版与庭审资料聊天机器人
 
+3与22日文件更新 → ：
+
+【822文件中英文版.pdf】
+
+【NotebookLM 的系统指令-System Instructions:笔记本指南.txt】
+
 > 方法：使用NotebookLM的强大检索和思考能力处理郭文贵文字
 
 
