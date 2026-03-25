@@ -110,7 +110,7 @@
 
 📸 
 <div align="center">
-  <img src="./所有来源/.jpg" width="600" alt="所有来源演示">
+  <img src="./image/效果图.jpg" width="600" alt="所有来源演示">
 </div>
 
 注意提问方式，非常重要！！！：
