@@ -57,7 +57,7 @@
 
 📸 
 <div align="center">
-  <img src="./上传文件.jpg" width="600" alt="所有来源演示">
+  <img src="./image/上传文件.jpg" width="600" alt="所有来源演示">
 </div>
 
 ```
@@ -79,7 +79,7 @@
 - ☑️ 勾选所有已上传的文件
 
 📸<div align="center">
-  <img src="./所有来源.jpg" width="600" alt="所有来源演示">
+  <img src="./image/所有来源.jpg" width="600" alt="所有来源演示">
 </div>
 
 ```
@@ -110,7 +110,7 @@
 
 📸 
 <div align="center">
-  <img src="https://github.com/GuoWengui-MilesGuo/GuoWengui-Chatbot/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE.jpg" width="600" alt="所有来源演示">
+  <img src="./所有来源/.jpg" width="600" alt="所有来源演示">
 </div>
 
 注意提问方式，非常重要！！！：
