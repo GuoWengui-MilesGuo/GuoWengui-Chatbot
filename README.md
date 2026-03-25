@@ -6,6 +6,8 @@
 
 【NotebookLM 的系统指令-System Instructions:笔记本指南.txt】
 
+
+[如何制作政事小哥风格的视频](./如何制作政事小哥风格的视频.md)
 > 方法：使用NotebookLM的强大检索和思考能力处理郭文贵文字
 
 
